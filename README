@@ -1,0 +1,36 @@
+********************************************
+*                                          *
+* loginteller v1.01                        *
+* Copyright (C) 2010-2021, jobima & dacomo *
+*                                          *
+********************************************
+
+Welcome to the loginteller program!  This program, once installed as
+/usr/local/sbin/loginteller,  tells current login name at the system.
+
+
+SOURCES
+=========
+
+Web:      http://www.inf1-jobima.cat/software/utils/loginteller/
+FTP:      ftp://ftp.inf1-jobima.cat/pub/utils/loginteller/loginteller.tar.gz
+
+
+INSTALLATION
+============
+
+Installation of loginteller  is quite easy.   Simply follow these steps:
+
+1. Building:
+
+       # make
+
+2. Installing:
+
+       # sudo make install
+
+3. You are finished.
+
+
+REMOVAL
+=======
